@@ -4,7 +4,7 @@ A modern, professional portfolio website showcasing my work as a Software Engine
 
 ## 🚀 Live Demo
 
-Visit the live site: [Your Portfolio URL will be here]
+Visit the live site: sakina-shrestha.github.io
 
 ## 📋 Features
 
@@ -43,8 +43,8 @@ portfolio/
 
 - **Email**: sakustha12@gmail.com
 - **GitHub**: [@Sakinastha](https://github.com/Sakinastha)
-- **LinkedIn**: [sakina-shrestha](https://linkedin.com/in/sakina-shrestha)
-- **Phone**: (410) 588-9789
+- **LinkedIn**: [sakina shrestha](https://www.linkedin.com/in/sakina-shrestha-474775273/)
+- **Phone**: (667) 304-8390
 
 ## 📄 License
 
